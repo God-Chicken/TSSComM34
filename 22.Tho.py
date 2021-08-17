@@ -38,5 +38,6 @@ number = 16
 friend = "time"
 friend_gender = "men"
 for x in range(number):
-    if x>7 and x=12:
+    if x>7 and x<=12:
         print(x)
+
